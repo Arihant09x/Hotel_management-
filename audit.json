@@ -1,0 +1,16 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1762685520906,
+            "name": "C:\\Users\\Tushar\\Downloads\\Hotel-Room-Booking-System-main\\Hotel-Room-Booking-System-main\\backend\\logs\\access\\access-2025-11-09.log",
+            "hash": "7c2ec653a2b1bdd521ea9dc773192066"
+        }
+    ]
+}
